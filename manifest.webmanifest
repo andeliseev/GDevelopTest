@@ -1,9 +1,9 @@
 {
-  "name": "Tacit Dust",
-  "short_name": "Tacit Dust",
+  "name": "GeometryMonster",
+  "short_name": "GeometryMonster",
   "id": "com.example.gamename",
   "description": "",
-  "orientation": "landscape",
+  "orientation": "portrait",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "black",
